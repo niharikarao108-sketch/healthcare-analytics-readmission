@@ -93,7 +93,7 @@ The analysis demonstrates how healthcare analytics can support:
 
 ## Author
 
-Personal project by Niharika Rao  
+Personal project by Dr. K Niharika Rao  
 Dentist | MBA – Hospital & Health Management
 
 This project was undertaken as a self-learning initiative to develop
